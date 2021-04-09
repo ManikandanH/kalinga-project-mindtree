@@ -1,0 +1,25 @@
+
+
+.backgroundDesign{position: relative;background:transparent url('../../../assests/white texture.jpg') no-repeat;
+    background-size:cover;background-position:center;background-attachment: fixed;}
+  .backgroundDesign:after
+  {
+    content:"";position: absolute;top:0px;left:0px;height:100%;width:100%;opacity:0.2;
+    background:linear-gradient(#000 100%,#ddd );
+  }
+
+ .svgIcons{
+    width:100px;
+    height:100px;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+ .svgIcons:hover{
+    transform: scale(1.2, 1.2)
+}
+
+.headings i{
+    color:rgba(34, 7, 7, 0.8);
+    font-family:Sofia;
+    font-size:30px
+}

@@ -1,0 +1,18 @@
+.buttonposition
+{
+    margin-top:10px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-bottom:40px;
+}
+
+.buttonposition label
+{
+    font-size: 20px;
+    margin:10px;
+}
+
+.fieldposition
+{
+    margin-top:30px;
+}

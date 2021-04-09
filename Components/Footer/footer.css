@@ -1,0 +1,26 @@
+.navlink
+{
+    color:white;
+    font-size: 15px;
+    font-family:"Sofia"
+
+}
+
+#footer
+{
+    width: 100%;
+    background-color:rgba(34, 7, 7, 0.9);
+    margin-top: 20px;
+    /* position: absolute;
+    right:0;
+    bottom:0;
+    left:0 */
+
+}
+.hr{
+    background-color:#878787;
+    width:1px;
+    height:180px;
+
+    margin-left:-31px
+}
